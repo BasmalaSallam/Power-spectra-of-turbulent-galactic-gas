@@ -6,5 +6,7 @@ Galaxies contain gas that is energetically driven by various processes, such as 
 
 
 Task 1: Plotting FITS image using astropy and creating a radial profile. 
+
 Task 2: Apply fourier transform to an image of random noise by utilizing the fftn function from scipy.fftpack. Then, apply the same thing to the galaxy image from task 1. 
+
 Task 3: Calculate the power spectrum of the density fluctuations and check if we got a power law spectrum. (Following the tutorial: https://turbustat.readthedocs.io/en/latest/tutorials/statistics/pspec_example.html)
